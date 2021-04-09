@@ -1,3 +1,3 @@
-## Version 1.0.0 (4 aug 2019)
+## Version 1.0.0 
 - Initial template
 - Bootstrap version 4.3.1
